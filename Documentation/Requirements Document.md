@@ -55,7 +55,7 @@
 
 ### 2.2. Интерфейсы пользователя <a name="2.2"></a>
 
-Графический интерфейс представлен в виде [мокапов](https://github.com/Anatoliy030501/Keyboard-Trainer/tree/main/Mockups). <br/>
+Графический интерфейс представлен в виде  [мокапов](https://github.com/Anatoliy030501/Keyboard-Trainer/tree/main/Mockups). <br/>
 При запуске приложения пользователь попадает в меню:
 
 ![Меню](https://github.com/Anatoliy030501/Keyboard-Trainer/blob/main/Mockups/Menu.png) <br/>
